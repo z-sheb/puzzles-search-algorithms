@@ -2,7 +2,7 @@
 Implementing the A* Algorithm on 8-puzzle, and Evolutionary Algorithm on Sudoku puzzle using Python.
 
 ## Question 1: 8-Puzzle Game
-## The 8-Puzzle Problem Overview:
+### The 8-Puzzle Problem Overview:
 The 8-puzzle game consists of a 3x3 grid with 9 squares and 8 numbered tiles. The game starts with the 8 numbered tiles placed in their 'Initial State'- the player shifts one tile at a time in an effort to match the tile placement to the grid's 'Goal State'. The game rules are as follows:
 
 Goal: reach the tile configuration in the 'Goal State' from the 'Initial State'
